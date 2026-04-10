@@ -1,6 +1,0 @@
-gerente= (8500*1.12)
-analista= (5000*1.12)
-suporte= (3000*1.15)
-print(f"O novo salário do gerente será de R$ {gerente:.2f}")
-print(f"O novo salário do analista será de R$ {analista:.2f}")
-print(f"O novo salário do suporte será de R$ {suporte:.2f}")
